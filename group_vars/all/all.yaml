@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 MONGODB_HOST: mongodb-{{ env }}.anjidevops.online
 REDIS_HOST: redis-{{ env }}.anjidevops.online
 MYSQL_HOST: mysql-{{ env }}.anjidevops.online 
@@ -8,14 +7,4 @@ USER_HOST: user.backend-alb-{{ env }}.anjidevops.online
 CART_HOST: cart.backend-alb-{{ env }}.anjidevops.online
 SHIPPING_HOST: shipping.backend-alb-{{ env }}.anjidevops.online
 PAYMENT_HOST: payment.backend-alb-{{ env }}.anjidevops.online
-=======
-MONGODB_HOST: mongodb-{{ env }}.daws90s.shop
-REDIS_HOST: redis-{{ env }}.daws90s.shop
-MYSQL_HOST: mysql-{{ env }}.daws90s.shop 
-RABBITMQ_HOST: rabbitmq-{{ env }}.daws90s.shop 
-CATALOGUE_HOST: catalogue.backend-alb-{{ env }}.daws90s.shop
-USER_HOST: user.backend-alb-{{ env }}.daws90s.shop
-CART_HOST: cart.backend-alb-{{ env }}.daws90s.shop
-SHIPPING_HOST: shipping.backend-alb-{{ env }}.daws90s.shop
-PAYMENT_HOST: payment.backend-alb-{{ env }}.daws90s.shop
->>>>>>> 1f0c86518e200258028aee7a219a3135f252ef72
+
